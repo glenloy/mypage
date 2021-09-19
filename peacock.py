@@ -30,7 +30,7 @@ with exp2:
 	
 st.header('Membership to Professional Bodies')
 st.subheader('Association of Chartered Certified Accountants (ACCA) - Affiliate') 
-st.write('ACCA Registration Number: 3548438')
+
 
 
 	
