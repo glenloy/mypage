@@ -6,7 +6,7 @@ import streamlit as st
 
 st.set_page_config(page_title='Resume', page_icon=None, layout='centered', initial_sidebar_state='collapsed')
 
-st.title('Loy Tze Hao, Glen')
+st.title('Glen Loy')
 c1,c2,c3,c4 = st.columns(4)
 c1.text('Contact me')
 c2.text('Github')
